@@ -1,0 +1,9 @@
+	Checking signs and macs:
+
+- Signatures are valid
+- Authentications passed
+
+	Checking encryption:
+
+Message to encrypt:  Some words to encrypt and then decrypt with keys from asymmetric cryptography
+Decrypted message:  Some words to encrypt and then decrypt with keys from asymmetric cryptography

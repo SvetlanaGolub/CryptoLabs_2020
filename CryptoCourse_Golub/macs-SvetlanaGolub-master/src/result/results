@@ -1,0 +1,28 @@
+Task № 3 - Calculate and verify tag
+
+	OMAC
+	Tag: [12, 83, -101, -86, 92, 95, 48, -21, 14, 96, -120, -108, 32, 105, -86, 104]
+	Is verification passed?  true
+
+	HMAC
+	Tag: [102, -26, -50, -64, 60, 116, -104, -54, -3, 92, 47, -49, -47, -7, 87, -111, -13, 74, -62, 39, 22, -110, -102, 70, 99, -94, -82, -12, -109, -64, -34, 126]
+	Is verification passed?  true
+
+	tMAC
+	Tag: [-33, -4, 37, -18, -103, -72, -125, 95]
+	Is verification passed?  true
+
+Task № 3.1 - Different data
+
+	OMAC
+	Tag: [12, 83, -101, -86, 92, 95, 48, -21, 14, 96, -120, -108, 32, 105, -86, 104]
+	Is verification passed?  false
+
+	HMAC
+	Tag: [102, -26, -50, -64, 60, 116, -104, -54, -3, 92, 47, -49, -47, -7, 87, -111, -13, 74, -62, 39, 22, -110, -102, 70, 99, -94, -82, -12, -109, -64, -34, 126]
+	Is verification passed?  false
+
+	tMAC
+	Tag: [-33, -4, 37, -18, -103, -72, -125, 95]
+	Is verification passed?  false
+

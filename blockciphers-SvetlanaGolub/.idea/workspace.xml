@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29efb020-40f8-44b5-81f1-d89ef6ca7443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="90" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zirl6EdOrS9bku9YVmgscldoeD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../МИФЯГА/crypt/hkdf-SvetlanaGolub" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="blockciphers-SvetlanaGolub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29efb020-40f8-44b5-81f1-d89ef6ca7443" name="Default Changelist" comment="" />
+      <created>1585332903976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585332903976</updated>
+      <workItem from="1585332905594" duration="91128000" />
+      <workItem from="1585856786782" duration="49000" />
+      <workItem from="1586537683364" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="150" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585569984975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="150" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585569984975" />
+    <state x="0" y="170" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1585427066229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="170" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1536.824@0.0.1536.824" timestamp="1585427066229" />
+    <state x="165" y="157" key="FileChooserDialogImpl" timestamp="1586537709407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586537709407" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1585675737700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585675737700" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1585675737699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585675737699" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1585675737699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585675737699" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1585675737700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585675737700" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1585675737702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585675737702" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1585675737701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585675737701" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1585675737700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585675737700" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1585675737701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585675737701" />
+    <state x="0" y="0" width="745" height="824" key="SettingsEditor" timestamp="1585413829546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="745" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585413829546" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585856786801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585856786801" />
+    <state x="0" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585484207656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1585484207656" />
+    <state x="209" y="33" key="new project wizard" timestamp="1585856830153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585856830153" />
+    <state x="127" y="34" key="refactoring.ChangeSignatureDialog" timestamp="1585485595149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="127" y="34" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585485595149" />
+    <state x="41" y="190" key="run.anything.popup" timestamp="1585569341706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585569341706" />
+    <state x="46" y="145" key="search.everywhere.popup" timestamp="1585565907876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585565907876" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>395</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>484</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>172</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/javax/crypto/Cipher.class</url>
+          <line>813</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/javax/crypto/CipherSpi.class</url>
+          <line>45</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/javax/crypto/CipherSpi.class</url>
+          <line>67</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/javax/crypto/Cipher.class</url>
+          <line>772</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/AESCipher.class</url>
+          <line>94</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>381</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>388</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jrt://C:/Program Files/Java/jdk-11.0.6!/java.base/com/sun/crypto/provider/CipherCore.class</url>
+          <line>404</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ECB.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CFB.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CFB.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OFB.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OFB.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OFB.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OFB.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.padding" language="JAVA" />
+        <watch expression="this.getOutputSizeByOperation(inputLen, false)" language="JAVA" />
+        <watch expression="buffered" language="JAVA" />
+        <watch expression="((CipherCore)((General)aes.cipher.spi).core).buffer" custom="com.sun.crypto.provider.AESCipher.General,com.sun.crypto.provider.CipherCore" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blockciphers_SvetlanaGolub$Main.ic" NAME="Main Coverage Results" MODIFIED="1585478426482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

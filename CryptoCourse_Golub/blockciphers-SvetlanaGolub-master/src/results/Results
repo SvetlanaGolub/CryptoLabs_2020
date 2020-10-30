@@ -1,0 +1,71 @@
+Task № 2.5 - Comparing CBC cipher
+
+	CBC Encryption
+Text to encrypt: Now we need to compare my CBC with standard CBC 
+Cipher Text: abe14731aad4dccf8c422ff4e29337c537de610104fd9b2519632944068fdd4466a4105034cf2a36ba478c58d5c2769a093ff9b95e360cb106a0de6195786d1c
+
+	Standard CBC Encryption realisation: 
+Cipher Text: abe14731aad4dccf8c422ff4e29337c537de610104fd9b2519632944068fdd4466a4105034cf2a36ba478c58d5c2769a093ff9b95e360cb106a0de6195786d1c
+
+The same result!!!
+
+	CBC Decryption
+Plain Text: Now we need to compare my CBC with standard CBC 
+
+	Standard CBC Decryption realisation 
+Plain Text: Now we need to compare my CBC with standard CBC 
+
+The same result!!!
+
+
+Task № 3 - Decryption
+
+	CBC Decryption
+Plain Text: Basic CBC mode encryption needs padding.
+
+	CBC Decryption
+Plain Text: Our implementation uses rand. IV
+
+	CTR Decryption
+Plain Text: CTR mode lets you build a stream cipher from a block cipher.
+
+	CTR Decryption
+Plain Text: Always avoid the two time pad!
+
+
+Task № 4 - Encryption of two and a half blocks
+
+	ECB Encryption
+Text to encrypt: Now we need to encrypt two and a half blocks.
+Cipher Text: baca6d1a2e853a7f275e5a4dc957b2b733104117799677637fbe2562b0c906534fc8b0679d78d5f2eaa04f808d867ab0
+
+	ECB Decryption
+Plain Text: Now we need to encrypt two and a half blocks.
+
+	CBC Encryption
+Text to encrypt: Now we need to encrypt two and a half blocks.
+Cipher Text: 440b87be1e3e52c628f236d7c9355842c7ebad4aa6331231e2138996e5579be355a47adf1eff54f7054dd7c4e91ad957763f117a678bd51d5a25c1ab9bd30d99
+
+	CBC Decryption
+Plain Text: Now we need to encrypt two and a half blocks.
+
+	CFB Encryption
+Text to encrypt: Now we need to encrypt two and a half blocks.
+Cipher Text: 8704c2ffe6d43ae4bdd5cc8f4aa4042b98e8c7d29c808918ffc1118f95e8cde6e1646ff8cd1f5d935a41807834b79a18af42ccdc6ff5fb9fb4f4481fbd030303
+
+	CFB Decryption
+Plain Text: Now we need to encrypt two and a half blocks.
+
+	OFB Encryption
+Text to encrypt: Now we need to encrypt two and a half blocks.
+Cipher Text: 6673a0f88adde6a4333468bc68bc630a20ec36874f44695caa5969aef81752e42fa8a32e0e23e5660fc5a53a959ef331ed54ed910148648a78ad8a1b8a030303
+
+	OFB Decryption
+Plain Text: Now we need to encrypt two and a half blocks.
+
+	CTR Encryption
+Text to encrypt: Now we need to encrypt two and a half blocks.
+Cipher Text: e4bb0c3bc3c5dac43215264b00000001389ef1323640d9fee135ef4001a1c9257472b1253c7ea3582f12a48743398a4ea36bf09c88901164f4701df7bb
+
+	CTR Decryption
+Plain Text: Now we need to encrypt two and a half blocks.
